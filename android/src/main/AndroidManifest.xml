@@ -1,0 +1,3 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.example.background_isolate_binary_messenger_leak">
+</manifest>
